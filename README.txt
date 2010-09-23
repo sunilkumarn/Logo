@@ -1,0 +1,1 @@
+Python logo is a very simple program to draw geometrical shapes in a 'tkinter canvas'. A turtle is created which performs the movements. Options are available to hide and view the turtle and place the pen up and down.
